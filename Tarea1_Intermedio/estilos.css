@@ -1,0 +1,49 @@
+h1 {
+  border-width:2px;
+  border-style:solid;
+  border-color:#0000ff;
+  text-align: center;
+
+}
+
+h2 {
+  border-width:2px;
+  border-style:dashed;
+  border-color:#E74C3C;
+  text-align: center;
+}
+
+h3 {
+  border-width:2px;
+  border-style:dotted;
+  border-color:#27AE60;
+  text-align: center;
+}
+h4{
+	text-align: center;
+	  font-size:30px;
+}
+
+#rgb{
+	color:rgb(255,0,0);
+
+}
+
+#hex{
+	color: 	#2C3E50;
+}
+
+#short{
+	color:#196F3D;
+}
+
+#hsla{
+	color:hsla(	0,50%,50%,0.5);
+}
+
+#built{
+	color:yellow;
+}
+
+
+
